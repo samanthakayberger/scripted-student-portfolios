@@ -34,3 +34,11 @@
 }
 
 /* Place your styles below this line */
+#student14{
+background-image: url("http://cdn.smosh.com/sites/default/files/2016/04/krabs-meme-fb.jpg");
+background-size: 100%;
+border-radius: 5px;
+border-color: purple;
+background-repeat: no-repeat;
+border: 5px dashed purple;
+}
